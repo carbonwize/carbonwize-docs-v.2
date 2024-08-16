@@ -27,7 +27,8 @@
     "redirect": {
       "redirects": {
         "/": "/README.md",
-        "/en/": "/en/README.md"
+        "/en/": "/en/README.md",
+        "/vi/" : "/vi/README.md"
       }
     }
   }

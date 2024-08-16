@@ -15,6 +15,11 @@
               "label": "English",
               "lang": "en",
               "path": "/en/"
+            },
+            {
+              "label": "Vietnam",
+              "lang": "vi",
+              "path": "/vi/"
             }
           ]
         }

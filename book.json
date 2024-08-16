@@ -1,0 +1,29 @@
+{
+    "title": "Carbonwize international docs",
+    "author": "Carbonwize",
+    "language": "en",
+    "plugins": ["language-picker","redirect"],
+    "pluginsConfig": {
+        "language-picker": {
+          "languages": [
+            {
+              "label": "ภาษาไทย",
+              "lang": "th",
+              "path": "/"
+            },
+            {
+              "label": "English",
+              "lang": "en",
+              "path": "/en/"
+            }
+          ]
+        }
+    },
+    "redirect": {
+      "redirects": {
+        "/": "/README.md",
+        "/en/": "/en/README.md"
+      }
+    }
+  }
+  

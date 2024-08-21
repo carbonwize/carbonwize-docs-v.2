@@ -9,3 +9,4 @@
 * [💻 เข้าสู่ระบบ](basic\_information/login.md)
 * [🔐 เปลี่ยนรหัสผ่าน](basic\_information/change-password.md)
 * [🔐 ลืมรหัสผ่าน](basic\_information/forgot-password.md)
+* [💻 ออกจากระบบ](basic\_information/log-out.md)

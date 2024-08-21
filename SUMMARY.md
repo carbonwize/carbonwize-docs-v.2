@@ -8,3 +8,4 @@
 * [✍️ Contact us](basic\_information/contact-us.md)
 * [💻 เข้าสู่ระบบ](basic\_information/login.md)
 * [🔐 เปลี่ยนรหัสผ่าน](basic\_information/change-password.md)
+* [🔐 ลืมรหัสผ่าน](basic\_information/forgot-password.md)

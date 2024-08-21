@@ -4,7 +4,7 @@
 
 1. กดเมนูเปลี่ยนรหัสผ่าน
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกรหัสผ่านเก่า
 2. กรอกรหัสผ่านใหม่ (ตามข้อกำหนดด้านล่าง)

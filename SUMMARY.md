@@ -4,8 +4,8 @@
 
 ## ข้อมูลเบื้องต้น <a href="#basic_information" id="basic_information"></a>
 
-* [✍️ Become a partner](basic\_information/become-a-partner.md)
-* [✍️ Contact us](basic\_information/contact-us.md)
+* [✍️ มาเป็นส่วนนึงกับเรา](basic\_information/undefined.md)
+* [✍️ ติดต่อเรา](basic\_information/undefined-1.md)
 * [💻 เข้าสู่ระบบ](basic\_information/login.md)
 * [🔐 เปลี่ยนรหัสผ่าน](basic\_information/change-password.md)
 * [🔐 ลืมรหัสผ่าน](basic\_information/forgot-password.md)

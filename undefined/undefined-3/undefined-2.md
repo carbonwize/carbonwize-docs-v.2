@@ -2,16 +2,16 @@
 
 ### เพิ่มผู้ทวนสอบ
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 * แสดงรายชื่อองค์กรทวนสอบ
 * แสดงข้อมูลผู้ทวนสอบที่ได้เพิ่มเข้าระบบทั้งหมด&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * กดปุ่มเพิ่มผู้ทวนสอบ
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกบริษัทผู้ทวนสอบ
 2. กรณีมีรายชื่อผู้ทวนสอบสามารถเลือกรายชื่อผู้ทวนสอบได้ทันที (สูงสุด 5 ท่าน)

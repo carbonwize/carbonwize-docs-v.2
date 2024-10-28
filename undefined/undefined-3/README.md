@@ -1,6 +1,6 @@
 # 🧑‍💻 จัดการบัญชีผู้ใช้งาน
 
-### หน้าผู้ใช้งาน
+### ผู้ใช้งาน
 
 <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 

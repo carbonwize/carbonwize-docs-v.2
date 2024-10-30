@@ -2,19 +2,19 @@
 
 ### ส่วงทวนสอบ
 
-<figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
 
 * กดปุ่มส่งทวนสอบ เมื่อตรวจเช็คความถูกต้องของการทวนสอบเรียบร้อยแล้ว
 
-<figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
 * กดปุ่มตกลงเพื่อส่งคำเชิญไปยังผู้ทวนสอบ
 
-<figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
 * เมื่อส่งคำเชิญไปยังผู้ทวนสอบเรียบร้อยแล้ว สถานะการทวนสอบจะเปลี่ยนเป็น รอผู้ทวนสอบ และเข้าสู่กระบวนการทวนสอบ
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 
 * เมื่อส่งคำเชิญไปยังผู้ทวนสอบเรียบร้อยแล้ว สถานะการทวนสอบจะเปลี่ยนเป็น รอผู้ทวนสอบ และเข้าสู่กระบวนการทวนสอบ
 * อธิบายสถานะการทวนสอบข้อมูลเพิ่มเติม

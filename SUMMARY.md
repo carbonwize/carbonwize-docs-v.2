@@ -33,10 +33,10 @@
   * [🗂️ Custom EF](undefined/undefined-6/custom-ef.md)
 * [🧑‍💻 ทวนสอบข้อมูล](undefined/undefined-7/README.md)
   * [📋 สร้างการทวนสอบ](undefined/undefined-7/undefined.md)
-  * [🗂️ ทวนสอบข้อมูล](undefined/undefined-7/undefined-1.md)
-  * [🗂️ ส่งทวนสอบ](undefined/undefined-7/undefined-2.md)
-  * [📝 รายงานการแก้ไขข้อบกพร่อง](undefined/undefined-7/undefined-3.md)
-  * [✅ ทวนสอบเสร็จสิ้น](undefined/undefined-7/undefined-4.md)
+  * [🗂️ ทวนสอบข้อมูล](undefined/undefined-7/undefined-1/README.md)
+  * [🗂️ ส่งทวนสอบ](undefined/undefined-7/undefined-1/undefined.md)
+  * [📝 รายงานการแก้ไขข้อบกพร่อง](undefined/undefined-7/undefined-1/undefined-1.md)
+  * [✅ ทวนสอบเสร็จสิ้น](undefined/undefined-7/undefined-1/undefined-2.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม Mobile
 

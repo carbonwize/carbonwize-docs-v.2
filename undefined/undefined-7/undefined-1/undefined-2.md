@@ -2,6 +2,11 @@
 
 ### ทวนสอบเสร็จสิ้น
 
+<figure><img src="../../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+
+* เมื่อการทวนสอบเสร็จสิ้น ผู้ใช้งานใน Role Admin ทั้งหมด จะได้รับเมลแจ้งเตือน verification complete
+* เมื่อมีการแก้ไขเอกสารแนบจากผู้ทวนสอบ ผู้ใช้งานใน Role Admin ทั้งหมด จะได้รับเมลแจ้งเตือนอัปเดตการแก้ไขเอกสารแนบ
+
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * เมื่อทวนสอบเสร็จสิ้นรายการทวนสอบจะแสดงในหน้าทวนสอบแสร็จสิ้นและสถานะจะเปลี่ยนเป็นทวนสอบเสร็จสิ้น

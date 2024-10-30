@@ -23,7 +23,7 @@
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. กรอกข้อมูล วันที่, จำนวน,คำอธิบาย (ถ้ามี), แนบหลักฐาน (ถ้ามี)
+1. กรอกข้อมูล วันที่, จำนวน, คำอธิบาย (ถ้ามี), แนบหลักฐาน (ถ้ามี)
 2. กดปุ่มบันทึก
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

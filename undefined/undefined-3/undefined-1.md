@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
-* แสดงงานที่ได้รับทั้งหมดของผู้ใช้งานแต่ละคน
+* แสดงงานที่ได้รับทั้งหมดของผู้ใช้งาน
 * ผู้ใช้งานจะสามารถ เพิ่มข้อมูลใหม่, แก้ไขข้อมูล, ลบข้อมูล รายการกิจกรรมที่ตนเองได้รับมอบหมายเท่านั้น
 
 <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>

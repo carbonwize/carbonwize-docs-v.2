@@ -9,7 +9,7 @@
 
 <figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
 
-1. ตรวจเช็คชื่อรายการ, วันที่, จำนวน, คำอธิบาย(ถ้ามี), เอกสารอ้างอิง(ถ้ามี)
+1. ตรวจเช็คชื่อรายการ, วันที่, จำนวน, คำอธิบาย (ถ้ามี), เอกสารอ้างอิง (ถ้ามี)
 2. กดปุ่มปฏิเสธ
 
 <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>

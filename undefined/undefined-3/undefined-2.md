@@ -4,7 +4,6 @@
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-* แสดงรายชื่อองค์กรทวนสอบ
 * แสดงข้อมูลผู้ทวนสอบที่ได้เพิ่มเข้าระบบทั้งหมด&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

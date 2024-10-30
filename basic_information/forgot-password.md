@@ -17,7 +17,7 @@
 
 กดปุ่ม Set a new password
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. ตั้งรหัสผ่านใหม่ (ตามข้อกำหนดด้านล่าง)
 2. กรอกยืนยันรหัสผ่าน

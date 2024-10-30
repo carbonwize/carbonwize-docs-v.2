@@ -2,15 +2,15 @@
 
 ### ทวนสอบเสร็จสิ้น
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * เมื่อทวนสอบเสร็จสิ้นรายการทวนสอบจะแสดงในหน้าทวนสอบแสร็จสิ้นและสถานะจะเปลี่ยนเป็นทวนสอบเสร็จสิ้น
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * เมื่อกดดูรายงาน แสดงข้อมูลของการทวนสอบ, สามารถดาวน์โหลดรายงานได้ จะไม่สามารถแก้ไขข้อมูลได้
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * เมื่อกดดูเอกสารแนบ แสดงเอกสารเอกสารยืนยันการทวนสอบเสร็จสิ้น
   * ใบรับรองการทวนสอบ

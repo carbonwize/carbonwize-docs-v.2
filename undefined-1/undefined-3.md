@@ -1,5 +1,7 @@
 # 🔐 ลืมรหัสผ่าน
 
+<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption></figcaption></figure>
+
 1. กดปุ่มลืมรหัสผ่าน
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 ### กรอกข้อมูลกิจกรรม
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * แสดงข้อมูลของกิจกรรมที่ได้รับมอบหมาย เช่น รายการกิจกรรม, ชื่อกิจกรรม, องค์กร, ผู้ที่ได้รับมอบหมาย, วันที่นำเข้าข้อมูล, สถานะการอนุมัติล่าสุด, วันที่อัปเดตล่าสุด เป็นต้น
 * การเรียง priority สถานะ 1.ต้องแก้ไข 2.รออนุมัติ 3.อนุมัติแล้ว เช่น
@@ -13,15 +13,15 @@
   * ต้องแก้ไข ผู้อนุมัติรายการปฎิเสธการนำเข้าข้อมูล สามารถแก้ไขข้อมูลได้ สามารถลบข้อมูลได้
   * อนุมัติแล้ว ผู้อนุมัติรายการอนุมัติการนำเข้าข้อมูล สามารถแก้ไขข้อมูลได้
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. เลือกกิจกรรมที่ต้องการเพิ่มข้อมูลใหม่
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กดปุ่มเพิ่มบันทึกใหม่
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกข้อมูล วันที่, จำนวน, คำอธิบาย (ถ้ามี), แนบหลักฐาน (ถ้ามี)
 2. กดปุ่มบันทึก

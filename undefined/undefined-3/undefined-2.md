@@ -6,7 +6,7 @@
 
 * แสดงข้อมูลผู้ทวนสอบที่ได้เพิ่มเข้าระบบทั้งหมด&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * กดปุ่มเพิ่มผู้ทวนสอบ
 

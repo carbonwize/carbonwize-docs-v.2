@@ -11,7 +11,7 @@
 
 1. กดปุ่มเข้าสู่ระบบผู้ทวนสอบ
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 1. กรอกอีเมล
 2. กรอกรหัสผ่าน

@@ -4,7 +4,7 @@ description: >-
   easily assess their carbon footprint and meet environmental standards.
 ---
 
-# Welcome Carbonwize
+# 👋 Welcome Carbonwize
 
 ### About Carbonwize
 

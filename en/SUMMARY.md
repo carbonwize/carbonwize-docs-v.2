@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Welcome Carbonwize](README.md)
+* [👋 Welcome Carbonwize](README.md)

@@ -16,4 +16,4 @@
 * [💡 How to use the Carbonwize system](platform-user-guide/how-to-use-the-carbonwize-system.md)
 * [📊 Overview](platform-user-guide/overview.md)
 * [🗂️ Organization settings](platform-user-guide/organization-settings/README.md)
-  * [Page 1](platform-user-guide/organization-settings/page-1.md)
+  * [🗂️ Office / Branch](platform-user-guide/organization-settings/office-branch.md)

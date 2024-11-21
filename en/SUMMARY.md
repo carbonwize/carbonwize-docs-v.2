@@ -1,3 +1,7 @@
 # Table of contents
 
-* [👋 Welcome Carbonwize](README.md)
+* [👋 Welcome to Carbonwize](README.md)
+
+## Basic information
+
+* [Become a partner](basic-information/become-a-partner.md)

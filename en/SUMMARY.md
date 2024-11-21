@@ -6,6 +6,7 @@
 
 * [✍️ Become a partner](basic-information/become-a-partner.md)
 * [✍️ Contact us](basic-information/contact-us.md)
-* [💻 Login](basic-information/login.md)
+* [💻 Log in](basic-information/log-in.md)
 * [🔐 Change password](basic-information/change-password.md)
 * [🔐 Forgot password](basic-information/forgot-password.md)
+* [💻 Log out](basic-information/log-out.md)

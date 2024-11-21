@@ -17,3 +17,4 @@
 * [📊 Overview](platform-user-guide/overview.md)
 * [🗂️ Organization settings](platform-user-guide/organization-settings/README.md)
   * [🗂️ Office / Branch](platform-user-guide/organization-settings/office-branch.md)
+  * [🗂️ Building / Factory](platform-user-guide/organization-settings/building-factory.md)

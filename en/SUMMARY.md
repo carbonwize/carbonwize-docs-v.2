@@ -4,4 +4,5 @@
 
 ## Basic information
 
-* [Become a partner](basic-information/become-a-partner.md)
+* [✍️ Become a partner](basic-information/become-a-partner.md)
+* [✍️ Contact us](basic-information/contact-us.md)

@@ -1,4 +1,4 @@
-# Become a partner
+# ✍️ Become a partner
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

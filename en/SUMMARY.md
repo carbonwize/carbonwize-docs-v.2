@@ -10,3 +10,7 @@
 * [🔐 Change password](basic-information/change-password.md)
 * [🔐 Forgot password](basic-information/forgot-password.md)
 * [💻 Log out](basic-information/log-out.md)
+
+## Platform User Guide
+
+* [💡 How to use the Carbonwize system](platform-user-guide/how-to-use-the-carbonwize-system.md)

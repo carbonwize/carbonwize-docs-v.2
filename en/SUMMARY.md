@@ -18,3 +18,4 @@
 * [🗂️ Organization settings](platform-user-guide/organization-settings/README.md)
   * [🗂️ Office / Branch](platform-user-guide/organization-settings/office-branch.md)
   * [🗂️ Building / Factory](platform-user-guide/organization-settings/building-factory.md)
+  * [🗓️ Fiscal Year Setting](platform-user-guide/organization-settings/fiscal-year-setting.md)

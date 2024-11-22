@@ -19,3 +19,4 @@
   * [🗂️ Office / Branch](platform-user-guide/organization-settings/office-branch.md)
   * [🗂️ Building / Factory](platform-user-guide/organization-settings/building-factory.md)
   * [🗓️ Fiscal Year Setting](platform-user-guide/organization-settings/fiscal-year-setting.md)
+* [📋 Activity Inventory](platform-user-guide/activity-inventory.md)

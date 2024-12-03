@@ -18,4 +18,4 @@
 
 <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
-* เมื่อมอบหมายงานให้ผู้ใช้งานสำเร็จจะสามารถกดที่ icon เพื่อดูงานที่ได้รับมอบหมายของผู้ใช้งานได้
+* When a task is successfully assigned to a user, the user can click on the icon to view the user's assigned tasks.

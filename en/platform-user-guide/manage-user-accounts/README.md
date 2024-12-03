@@ -19,8 +19,8 @@
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-1. ยืนยันการเพิ่มสมาชิกกดปุ่มตกลง
-2. เมื่อเพิ่มสมาชิกสำเร็จระบบจะส่ง Temporary Password ให้กับสมาชิกผ่านทางอีเมล
+1. Confirm adding members, press the OK button.&#x20;
+2. When adding members successfully, the system will send a Temporary Password to the member via email.
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 

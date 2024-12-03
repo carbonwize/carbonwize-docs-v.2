@@ -7,7 +7,7 @@
 1. Check the list of items to be approved
 2. Press the Approve button
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Check item name, date, quantity, description (if any), reference document (if any)
 2. Press the approve button

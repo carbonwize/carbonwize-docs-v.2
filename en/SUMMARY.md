@@ -31,3 +31,5 @@
 * [📊 Emissions Factor (EF)](platform-user-guide/emissions-factor-ef/README.md)
   * [🗂️ Mapping Emissions Factor](platform-user-guide/emissions-factor-ef/mapping-emissions-factor.md)
   * [🗂️ Custom Emission Factor](platform-user-guide/emissions-factor-ef/custom-emission-factor.md)
+* [🧑‍💻 Audit portal](platform-user-guide/audit-portal/README.md)
+  * [📋 Create an audit portal](platform-user-guide/audit-portal/create-an-audit-portal.md)

@@ -1,21 +1,21 @@
 # 🧑‍💻 Manage user accounts
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * Displays all member information such as member name, role, position, role details, phone number, etc.
 
 ### Add User
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the add user button
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Fill in user information
 2. Press the OK button
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. ยืนยันการเพิ่มสมาชิกกดปุ่มตกลง
 2. เมื่อเพิ่มสมาชิกสำเร็จระบบจะส่ง Temporary Password ให้กับสมาชิกผ่านทางอีเมล

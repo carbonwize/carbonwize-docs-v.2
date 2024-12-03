@@ -1,5 +1,7 @@
 # 🗂️ Organization settings
 
+### Organization
+
 <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 * Displays general information about the organization, such as the organization name, stock abbreviation, legal entity number, market, location, industry group, business category, organization scope, responsible persons, etc.

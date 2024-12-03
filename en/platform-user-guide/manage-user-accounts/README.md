@@ -1,5 +1,7 @@
 # 🧑‍💻 Manage user accounts
 
+### Manage user accounts
+
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * Displays all member information such as member name, role, position, role details, phone number, etc.

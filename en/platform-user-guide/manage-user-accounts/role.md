@@ -1,5 +1,7 @@
 # 🧑‍💻 Role
 
+### Role
+
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 1. Shows details of all roles such as role name, role details, number of users in that role, etc.

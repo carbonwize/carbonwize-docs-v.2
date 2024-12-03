@@ -20,3 +20,7 @@
   * [🗂️ Building / Factory](platform-user-guide/organization-settings/building-factory.md)
   * [🗓️ Fiscal Year Setting](platform-user-guide/organization-settings/fiscal-year-setting.md)
 * [📋 Activity Inventory](platform-user-guide/activity-inventory.md)
+* [🧑‍💻 Manage user accounts](platform-user-guide/manage-user-accounts/README.md)
+  * [🧑‍💻 Role](platform-user-guide/manage-user-accounts/role.md)
+  * [📋 Task Assignment](platform-user-guide/manage-user-accounts/task-assignment.md)
+  * [🗃️ Manage Audit](platform-user-guide/manage-user-accounts/manage-audit.md)

@@ -25,3 +25,5 @@
   * [📋 Task Assignment](platform-user-guide/manage-user-accounts/task-assignment.md)
   * [🗃️ Manage Audit](platform-user-guide/manage-user-accounts/manage-audit.md)
 * [📝 Activity log](platform-user-guide/activity-log.md)
+* [📋 Activity approval](platform-user-guide/activity-approval/README.md)
+  * [📋 Activity approval](platform-user-guide/activity-approval/activity-approval.md)

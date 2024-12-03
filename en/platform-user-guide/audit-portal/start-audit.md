@@ -1,6 +1,6 @@
-# 📋 Create an audit portal
+# 📋 Start audit
 
-### Create an audit portal
+### Start audit
 
 <figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 

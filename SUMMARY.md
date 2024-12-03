@@ -28,7 +28,7 @@
 * [📋 การอนุมัติรายการ](platform-user-guide/activity-approval/README.md)
   * [📋 อนุมัติรายการ](platform-user-guide/activity-approval/approval.md)
   * [📋 ปฏิเสธรายการ](platform-user-guide/activity-approval/correction.md)
-* [📊 Emission Factor : EF](platform-user-guide/emission-factor/README.md)
+* [📊 Emission Factor (EF)](platform-user-guide/emission-factor/README.md)
   * [🗂️ การระบุการปล่อยก๊าซเรือนกระจก](platform-user-guide/emission-factor/mapping.md)
   * [🗂️ กำหนด Emission Factor เอง](platform-user-guide/emission-factor/custom.md)
 * [🧑‍💻 ทวนสอบข้อมูล](platform-user-guide/audit-portal/README.md)

@@ -1,6 +1,6 @@
-# 🗂️ Custom EF
+# 🗂️ กำหนด Emission Factor เอง
 
-### Custom EF
+### กำหนด Emission Factor เอง
 
 <figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 

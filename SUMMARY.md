@@ -4,12 +4,12 @@
 
 ## ข้อมูลเบื้องต้น <a href="#basic_information" id="basic_information"></a>
 
-* [✍️ มาเป็นส่วนนึงกับเรา](basic\_information/partner.md)
-* [✍️ ติดต่อเรา](basic\_information/contact-us.md)
-* [💻 เข้าสู่ระบบ](basic\_information/login.md)
-* [🔐 เปลี่ยนรหัสผ่าน](basic\_information/change-password.md)
-* [🔐 ลืมรหัสผ่าน](basic\_information/forgot-password.md)
-* [💻 ออกจากระบบ](basic\_information/log-out.md)
+* [✍️ มาเป็นส่วนนึงกับเรา](basic_information/partner.md)
+* [✍️ ติดต่อเรา](basic_information/contact-us.md)
+* [💻 เข้าสู่ระบบ](basic_information/login.md)
+* [🔐 เปลี่ยนรหัสผ่าน](basic_information/change-password.md)
+* [🔐 ลืมรหัสผ่าน](basic_information/forgot-password.md)
+* [💻 ออกจากระบบ](basic_information/log-out.md)
 
 ## คู่มือการใช้งานแพลทฟอร์ม <a href="#platform-user-guide" id="platform-user-guide"></a>
 
@@ -28,9 +28,9 @@
 * [📋 การอนุมัติรายการ](platform-user-guide/activity-approval/README.md)
   * [📋 อนุมัติรายการ](platform-user-guide/activity-approval/approval.md)
   * [📋 ปฏิเสธรายการ](platform-user-guide/activity-approval/correction.md)
-* [📊 การระบุการปล่อยก๊าซเรือนกระจก](platform-user-guide/emission-factor/README.md)
-  * [🗂️ Mapping EF](platform-user-guide/emission-factor/mapping.md)
-  * [🗂️ Custom EF](platform-user-guide/emission-factor/custom.md)
+* [📊 Emission Factor : EF](platform-user-guide/emission-factor/README.md)
+  * [🗂️ การระบุการปล่อยก๊าซเรือนกระจก](platform-user-guide/emission-factor/mapping.md)
+  * [🗂️ กำหนด Emission Factor เอง](platform-user-guide/emission-factor/custom.md)
 * [🧑‍💻 ทวนสอบข้อมูล](platform-user-guide/audit-portal/README.md)
   * [📋 สร้างการทวนสอบ](platform-user-guide/audit-portal/start-audit.md)
   * [🗂️ ทวนสอบข้อมูล](platform-user-guide/audit-portal/undefined.md)

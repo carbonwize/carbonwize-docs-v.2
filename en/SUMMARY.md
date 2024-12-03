@@ -27,3 +27,7 @@
 * [📝 Activity log](platform-user-guide/activity-log.md)
 * [📋 Activity approval](platform-user-guide/activity-approval/README.md)
   * [📋 Activity approval](platform-user-guide/activity-approval/activity-approval.md)
+  * [📋 Activity reject](platform-user-guide/activity-approval/activity-reject.md)
+* [📊 Emissions Factor (EF)](platform-user-guide/emissions-factor-ef/README.md)
+  * [🗂️ Mapping Emissions Factor](platform-user-guide/emissions-factor-ef/mapping-emissions-factor.md)
+  * [🗂️ Custom Emission Factor](platform-user-guide/emissions-factor-ef/custom-emission-factor.md)

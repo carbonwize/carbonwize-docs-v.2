@@ -2,12 +2,12 @@
 
 ### Audit completed
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * When the verification is complete, all Admin users will receive a verification complete email notification.
 * When the attachment is modified by the auditor, all Admin users will receive an update email notification of the modification of the attachment.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * When the review is complete, the review item will be displayed on the Completed page and the status will change to Completed.
 

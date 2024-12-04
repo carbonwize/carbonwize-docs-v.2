@@ -45,3 +45,12 @@
 * [📲 Login with Mobile](mobile-platform-user-guide/login-with-mobile.md)
 * [📋 Activity log](mobile-platform-user-guide/activity-log.md)
 * [📋 Edit activity log](mobile-platform-user-guide/edit-activity-log.md)
+
+## Platform User Guide Auditor
+
+* [💻 Log in](platform-user-guide-auditor/log-in.md)
+* [💻 Log out](platform-user-guide-auditor/log-out.md)
+* [🔐 Change password](platform-user-guide-auditor/change-password.md)
+* [🔐 Forgot your password](platform-user-guide-auditor/forgot-your-password.md)
+* [🗃️ Audit](platform-user-guide-auditor/audit.md)
+* [✅ Audit completed](platform-user-guide-auditor/audit-completed.md)

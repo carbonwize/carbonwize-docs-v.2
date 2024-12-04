@@ -17,7 +17,7 @@
 1. Select the organization data for which you want to create the activity list
 2. Click the Next button
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * The system will automatically default to the industry type and activity based on the organization's data.
 * You can select or delete items before saving to create an activity list.

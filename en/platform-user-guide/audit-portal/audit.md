@@ -10,7 +10,7 @@
 
 ### Organization Information/Scope
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Displays all organization scope information such as organization scope, organization structure, organization chart, production process chart.
 

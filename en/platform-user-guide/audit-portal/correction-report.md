@@ -14,7 +14,7 @@
 
 ### Edit data
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Click the Edit Data button to edit the data for review.
 

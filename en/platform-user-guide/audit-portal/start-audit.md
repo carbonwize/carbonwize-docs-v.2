@@ -2,11 +2,11 @@
 
 ### Start audit
 
-<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 1. Press the Start audit button
 
-<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
 1. Fill in the verification information completely, such as:
    1. Standards used for reference in reporting greenhouse gases
@@ -19,7 +19,7 @@
    8. Materiality level, etc.
 2. Press the Save button
 
-<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
 1. When creating a review, display the following information: Organization requesting the review, Document number, Review standard, Data retention period, Created when, Status, Comments
 2. When the review is successfully created, the review status will be Draft. You can view the report, edit Review settings, edit data, delete the review.

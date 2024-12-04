@@ -2,7 +2,7 @@
 
 ### Audit portal
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
 * Data Review Page Displays the information of the review, such as the organization requesting the review, document number, review standard, retention period, created when, status, comments.
 * Describes the status of the additional review.

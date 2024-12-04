@@ -62,3 +62,24 @@
 
 ### Significant
 
+<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+
+* Displays the significance of data as a percentage (%) of each standard used as a reference in reporting greenhouse gases.
+
+### Measurement Uncertainty
+
+<figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
+
+* Show the uncertainty assessment of the activity list
+* You can click to view the assessment criteria.
+
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+
+* Evaluation criteria for scoring of activity items
+
+### Correction Report
+
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
+* The bug fix report is for the reviewer only.
+* In case there is a bug fix report, it can be viewed on this page.

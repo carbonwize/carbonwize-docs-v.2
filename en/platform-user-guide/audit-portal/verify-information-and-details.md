@@ -1,4 +1,4 @@
-# 🗂️ Audit
+# 🗂️ Verify information and details
 
 ## <mark style="background-color:green;">Verify information and details before starting the audit.</mark>
 
@@ -10,20 +10,20 @@
 
 ### Organization Information/Scope
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Displays all organization scope information such as organization scope, organization structure, organization chart, production process chart.
 
 ### Organization Information/All activities of the organization
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Show all activities of the organization by branch
 * Show the scope of operations
 
 ### Organization Information/Data quality management
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Show data quality management Activity name, document and evidence type, data collector and recorder, data reviewer and approver
 * Show the structure of data quality management system

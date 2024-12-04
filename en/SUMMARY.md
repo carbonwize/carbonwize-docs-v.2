@@ -33,7 +33,7 @@
   * [🗂️ Custom Emission Factor](platform-user-guide/emissions-factor-ef/custom-emission-factor.md)
 * [🧑‍💻 Audit portal](platform-user-guide/audit-portal/README.md)
   * [📋 Start audit](platform-user-guide/audit-portal/start-audit.md)
-  * [🗂️ Audit](platform-user-guide/audit-portal/audit.md)
+  * [🗂️ Verify information and details](platform-user-guide/audit-portal/verify-information-and-details.md)
   * [🗂️ Send audit](platform-user-guide/audit-portal/send-audit.md)
   * [📝 Correction Report](platform-user-guide/audit-portal/correction-report.md)
   * [✅ Audit completed](platform-user-guide/audit-portal/audit-completed.md)

@@ -2,7 +2,7 @@
 
 ### Activity reject
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Check the list of items that need to be approved
 2. Press the Reject button

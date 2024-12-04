@@ -2,26 +2,26 @@
 
 ### Activity reject
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Check the list of items that need to be approved
 2. Press the Reject button
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Check item name, date, quantity, description (if any), reference document (if any)
 * Press reject button
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter the details of the data import rejection, Notes (if any), Attach evidence (if any)
 2. Press the Save button
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 * When an item is rejected for import, the item will be moved to the Pending Edit tab. You can view the data and reference documents.
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 * When the item is rejected, the status will change to Need to edit.
 * When the item changes to Need to edit status, you can view the data, reference documents, and history of the data.

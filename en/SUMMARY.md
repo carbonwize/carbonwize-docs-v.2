@@ -37,3 +37,11 @@
   * [🗂️ Send audit](platform-user-guide/audit-portal/send-audit.md)
   * [📝 Correction Report](platform-user-guide/audit-portal/correction-report.md)
   * [✅ Audit completed](platform-user-guide/audit-portal/audit-completed.md)
+
+## MOBILE PLATFORM USER GUIDE
+
+* [📱 iOS installation steps](mobile-platform-user-guide/ios-installation-steps.md)
+* [📱 Android installation steps](mobile-platform-user-guide/android-installation-steps.md)
+* [📲 Login with Mobile](mobile-platform-user-guide/login-with-mobile.md)
+* [📋 Activity log](mobile-platform-user-guide/activity-log.md)
+* [📋 Edit activity log](mobile-platform-user-guide/edit-activity-log.md)

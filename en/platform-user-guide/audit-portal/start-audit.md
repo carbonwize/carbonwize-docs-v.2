@@ -24,11 +24,11 @@
 1. When creating a review, display the following information: Organization requesting the review, Document number, Review standard, Data retention period, Created when, Status, Comments
 2. When the review is successfully created, the review status will be Draft. You can view the report, edit Review settings, edit data, delete the review.
 3. Describe the review status further.
-   * Draft Can view report Edit audit settings Edit data Delete audit
-   * Waiting for auditor Can view report only
-   * In progress Can view report only
-   * Revising Can view report Edit audit settings Edit data
-   * Audit completed Can view report View attachment only
+   1. Draft : Can view report Edit audit settings Edit data Delete audit
+   2. Waiting : for auditor Can view report only
+   3. In progress : Can view report only
+   4. Revising : Can view report Edit audit settings Edit data
+   5. Completed : Can view report View attachment only
 
 ### Explain in more detail in the draft state.
 
@@ -40,9 +40,9 @@
 
 ### Describe additional review status information.
 
-1. Draft Can view report Edit audit settings Edit data Delete audit
-2. Waiting for auditor Can view report only
-3. In progress Can view report only
-4. Revising Can view report Edit audit settings Edit data
-5. Audit completed Can view report View attachment only
+1. Draft : Can view report Edit audit settings Edit data Delete audit
+2. Waiting : for auditor Can view report only
+3. In progress : Can view report only
+4. Revising : Can view report Edit audit settings Edit data
+5. Completed : Can view report View attachment only
 

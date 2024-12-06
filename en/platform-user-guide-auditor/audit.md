@@ -8,11 +8,11 @@
 
 * When the organization submits the review, the review status will be displayed as Waiting for the verifier.
 * Describe the review status further.
-  * Draft Can view report Edit audit settings Edit data Delete audit
-  * Waiting for auditor Can view report only
-  * In progress Can view report only
-  * Revising Can view report Edit audit settings Edit data
-  * Audit completed Can view report View attachment only
+  * Draft : Can view report Edit audit settings Edit data Delete audit
+  * Waiting : for auditor Can view report only
+  * In progress : Can view report only
+  * Revising : Can view report Edit audit settings Edit data
+  * Completed : Can view report View attachment only
 * The review data page on the reviewer side shows the review data, including the organization requesting the review, document number, review standard, data retention period, created when, status.
 * The reviewer cannot edit the review data.
 

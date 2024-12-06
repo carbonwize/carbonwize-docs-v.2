@@ -1,6 +1,6 @@
 # 🗂️ Verify information and details
 
-## <mark style="background-color:green;">Verify information and details before starting the audit.</mark>
+### <mark style="color:red;">\*Verify information and details before starting the audit.</mark>
 
 ### Greenhouse gas emissions information
 

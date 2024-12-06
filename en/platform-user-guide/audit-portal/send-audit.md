@@ -18,8 +18,8 @@
 
 * Once the invitation is sent to the reviewer, the review status will change to waiting for the verifier and the review process will begin.
 * Describe the review status further.
-  * Draft Can view report Edit audit settings Edit data Delete audit
-  * Waiting for auditor Can view report only
-  * In progress Can view report only
-  * Revising Can view report Edit audit settings Edit data
-  * Audit completed Can view report View attachment only
+  * Draft : Can view report Edit audit settings Edit data Delete audit
+  * Waiting : for auditor Can view report only
+  * In progress : Can view report only
+  * Revising : Can view report Edit audit settings Edit data
+  * Completed : Can view report View attachment only

@@ -7,11 +7,11 @@
 * When there is a revision report from the reviewer, the review status will change to Rejected.
 * You can check the issues, related requirements of the review on the Correction Report page.
 * Describe the additional review status.
-  * Draft Can view report Edit audit settings Edit data Delete audit
-  * Waiting for auditor Can view report only
-  * In progress Can view report only
-  * Revising Can view report Edit audit settings Edit data
-  * Audit completed Can view report View attachment only
+  * Draft : Can view report Edit audit settings Edit data Delete audit
+  * Waiting : for auditor Can view report only
+  * In progress : Can view report only
+  * Revising : Can view report Edit audit settings Edit data
+  * Completed : Can view report View attachment only
 
 ### Edit data
 

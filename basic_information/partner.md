@@ -1,4 +1,4 @@
-# ✍️ มาเป็นส่วนนึงกับเรา
+# ✍️ มาเป็นส่วนหนึ่งกับเรา
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -9,7 +9,7 @@
 
 1. กรอกข้อมูลให้ครบถ้วน
 2. กดปุ่ม Submit
-3. รอทาง CarbonWize ติดต่อกลับ
+3. รอทาง Carbonwize ติดต่อกลับ
 
 [\
 ](https://docs.carbonwize.io/v/th)

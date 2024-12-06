@@ -6,7 +6,8 @@
 
 * Data Review Page Displays the information of the review, such as the organization requesting the review, document number, review standard, retention period, created when, status, comments.
 * Describes the status of the additional review.
-  * Draft Can view the report, edit, set up the review, edit data, delete the review.
-  * Waiting for reviewer Can view the report only.
-  * Need to edit Can view the report, edit, set up the review, edit data.
-  * Review completed Can view the report, view attached documents only.
+  * Draft Can view report Edit audit settings Edit data Delete audit
+  * Waiting for auditor Can view report only
+  * In progress Can view report only
+  * Revising Can view report Edit audit settings Edit data
+  * Audit completed Can view report View attachment only

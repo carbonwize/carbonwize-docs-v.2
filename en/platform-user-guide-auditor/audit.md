@@ -4,7 +4,7 @@
 
 * When an organization submits a review, the auditor will receive a You've got invited notification email to inform the auditor that the organization has submitted the review.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * When the organization submits the review, the review status will be displayed as Waiting for the verifier.
 * Describe the review status further.
@@ -18,13 +18,13 @@
 
 1. Click the Start Review button to enter the review process.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. When entering the review phase, the status will change to In Progress.
 
 ### Greenhouse gas emissions information
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Shows a table of standard proportions used as a reference for reporting greenhouse gases, comparing the scope and proportions expressed in tCO2e.
 
@@ -82,18 +82,18 @@ When clicking to view more details of the activity data list, it shows comparati
 
 ### Significant
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Displays the significance of data as a percentage (%) of each standard used as a reference in reporting greenhouse gases.
 
 ### Measurement Uncertainty <a href="#measurement-uncertainty" id="measurement-uncertainty"></a>
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Show the uncertainty assessment of the activity list
 * You can click to view the assessment criteria.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Evaluation criteria for scoring of activity items
 
@@ -111,15 +111,15 @@ When clicking to view more details of the activity data list, it shows comparati
 3. Select the related regulations.
 4. You can delete the correction report.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * Once the organization has successfully resolved the Correction report, the status will change to Wait to check again
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. When the auditor has completed the report correction, the report status will change to Done
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Enter the reviewer's conclusion
 

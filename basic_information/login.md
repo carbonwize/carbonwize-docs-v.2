@@ -1,6 +1,6 @@
 # 💻 เข้าสู่ระบบ
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 1. เข้าหน้าเว็บ [https://www.carbonwize.io/](https://www.carbonwize.io/)
 2.  กดปุ่ม [Login](https://app.carbonwize.io/)\
